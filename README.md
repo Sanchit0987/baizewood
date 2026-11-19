@@ -4,6 +4,8 @@ An original 3D 8-ball pool game for the browser: one table under a pendant lamp,
 with spin, three AI levels and a four-opponent cup. Vite + strict TypeScript + Babylon.js
 (WebGPU, WebGL2 fallback) + Rapier (WASM) + Vitest + Playwright.
 
+Play it at [baizewood.vercel.app](https://baizewood.vercel.app).
+
 ```sh
 npm ci
 npm run dev        # http://localhost:5185
